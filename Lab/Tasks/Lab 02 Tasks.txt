@@ -1,0 +1,5 @@
+Mar 13 2024
+
+Task: Read your name from an array and store it in Memory location 8004B. You must use loop.
+
+Bonus: Read your name from Memory 9004B into an array. Use Loop.  

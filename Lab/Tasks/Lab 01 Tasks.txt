@@ -1,0 +1,14 @@
+Mar 06 2024
+
+Task 1:
+
+array1 = 12,25,24,10,78 (byte size)    
+array2 = 10,45,7,14,56 (byte size)
+result_array = 12,10,25,45,24,7,10,14,78,56
+
+Task 2:
+
+Perform the following Division and Multiplication operations-
+
+5FA2H / 2D3H
+7723H * 21FAH

@@ -1,0 +1,6 @@
+Task 1:
+You are given an array= {55,14,9,35,67,22,10}. Write a program to see if "14" is in the array. If found, store SP=FFFFh. Must use macro and pass the element you are searching as a parameter.
+
+
+Task 2:
+Write a program to check if a string is palindrome or not. If the string is a palindrome then store DH=FFh. You must use at least one procedure to accomplish the task.

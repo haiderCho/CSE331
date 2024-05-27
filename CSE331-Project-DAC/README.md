@@ -1,10 +1,7 @@
-<h1 align="center"> CSE299 (JUNIOR DESIGN COURSE): Project </h1>
-<h2 align="center"> Music Recommendation system
+<h1 align="center"> CSE331 (Microprocessor Interfacing & Embedded System): Project </h1>
+<h2 align="center"> Digital Alarm clock using 8051 microcontroller
 <p align="center">
- <img alt="Languages" src="https://img.shields.io/github/languages/count/haiderCho/CSE299-Project-MRS">
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/haiderCho/CSE299-Project-MRS">
- <img alt="Contributors" src="https://img.shields.io/github/contributors/haiderCho/CSE299-Project-MRS">
- <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/haiderCho/CSE299-Project-MRS">
+
 </p>
 </h2>
 
